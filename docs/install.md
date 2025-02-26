@@ -23,11 +23,11 @@ brew install gcc make
 1. Unduh dan instal [MSYS2](https://www.msys2.org/).
 2. Buka MSYS2 dan jalankan:
 
-   ```sh
-   pacman -S mingw-w64-x86_64-gcc make
-   ```
+```sh
+pacman -S mingw-w64-x86_64-gcc make
+```
 
-   > Pastikan gcc dan make sudah terdaftar di environment variables di sistem anda
+> Pastikan `gcc` dan `make` sudah terdaftar di environment variables di sistem Anda
 
 ## Download Proyek
 
