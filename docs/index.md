@@ -1,3 +1,5 @@
-# Selamat Datang di Jump & Survive Documentation
+# Home
 
-[How to run](./install.md)
+Selamat Datang di Jump & Survive Documentation!
+
+Untuk instalasi dan penggunaan, kunjungi [How to run](./install.md)
